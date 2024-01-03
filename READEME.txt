@@ -1,0 +1,5 @@
+All the noteboks in the folder are for solving the EEE 549 project.
+You can start by creating the conda environment using the command :
+	conda env create --name eeehw --file=environment_droplet.yml 
+use the command "jupyter lab" from your terminal to get an interactive jupyter lab setup where you can execute all the scripts.
+Some notebooks also crea JSON files which can be used for further analysis.
